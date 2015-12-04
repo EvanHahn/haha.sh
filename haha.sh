@@ -2,7 +2,7 @@
 set -e
 
 function randy() {
-  echo $(($RANDOM % 2))
+  echo $((RANDOM % 2))
 }
 
 echo -n 'ha'
