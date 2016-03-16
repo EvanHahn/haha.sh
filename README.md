@@ -23,3 +23,9 @@ ahahaa hhhahhahahahha hhaa ahahhaaahhaaa hhhhha hhhahahha aaaahhha hhahahhhha
 hahahhhhaahahhhha aaaaaahahhhhhhahahhaaaa hhahha aaaaaha aahhaha ahaa aaahaa
 hhhaahha hhhhhhhhahaha ahhhahhaa ha hhhhaa hhahhha ha haha ahha
 ```
+
+If you feel like sharing the joy (only works on macs):
+
+```bash
+./haha.sh | say
+```
