@@ -27,5 +27,5 @@ hhhaahha hhhhhhhhahaha ahhhahhaa ha hhhhaa hhahhha ha haha ahha
 If you feel like sharing the joy (only works on macs):
 
 ```bash
-./haha.sh | say
+./haha.sh | xargs -n1 say
 ```
