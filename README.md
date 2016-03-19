@@ -24,7 +24,7 @@ hahahhhhaahahhhha aaaaaahahhhhhhahahhaaaa hhahha aaaaaha aahhaha ahaa aaahaa
 hhhaahha hhhhhhhhahaha ahhhahhaa ha hhhhaa hhahhha ha haha ahha
 ```
 
-If you feel like sharing the joy (only works on macs):
+If you're on OS X, you can make your computer audibly laugh:
 
 ```bash
 ./haha.sh | xargs -n1 say
